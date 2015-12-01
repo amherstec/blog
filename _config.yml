@@ -1,14 +1,15 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Amherst Electronics Club
+email: amherstec@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Founded in the spring of 2012, the Amherst College Electronics Club 
+  provides an opportunity for students to learn about embedded electronics and 
+  develop team projects. We designed a simple robot in the beginning of 2013, we 
+  launched Project Daedalus, built LED cubes, and hopefully many other projects will come to life through the club.
 baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://amherstec.github.io/" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: amherstec
+github_username:  amherstec
 
 # Build settings
 markdown: kramdown
