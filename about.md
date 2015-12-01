@@ -4,8 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Founded in the spring of 2012, the Amherst College Electronics Club provides an opportunity for students to learn about embedded electronics and develop team projects. We designed a simple robot in the beginning of 2013, we launched Project Daedalus, built LED cubes, and hopefully many other projects will come to life through the club.
